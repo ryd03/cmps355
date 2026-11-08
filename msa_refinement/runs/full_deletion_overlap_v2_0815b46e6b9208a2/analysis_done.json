@@ -1,0 +1,25 @@
+{
+  "bootstrap_resampling_sha256": "ccf1e84fc0220233db2c6909887a9ad2d41f26eae6b9fd623cc1642171a53119",
+  "estimate_count": 30,
+  "pilot_blocks_used": 0,
+  "seed_blocks": 50,
+  "settings": {
+    "bootstrap_replicates": 10000,
+    "bootstrap_seed": 3552050,
+    "confidence_level": 0.95,
+    "divergence_comparison": "paired by seed; 0.40 minus 0.25; seed streams remain the unchanged v2 streams",
+    "estimand": "mean of within-seed differences in normalized local net gain at each divergence",
+    "interval_method": "paired_seed_block_percentile_linear_interpolation",
+    "missing_data_policy": "require all 900 validated alignments, 900 scores and 600 comparisons before statistical estimates; do not silently exclude failed blocks",
+    "multiplicity": "marginal intervals; no simultaneous coverage or multiplicity-adjusted significance claim",
+    "outcome": "normalized_focal_local_net_gain",
+    "pilot_exclusion": "only seeds 2001 through 2050 are admissible",
+    "primary_contrasts": [
+      "partial_minus_none",
+      "high_minus_none"
+    ],
+    "primary_iteration_cap": 2,
+    "resampling": "jointly resample 50 seed IDs with replacement; preserve all conditions and divergence levels per seed",
+    "secondary_iteration_cap": 10
+  }
+}

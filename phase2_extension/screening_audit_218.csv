@@ -1,0 +1,219 @@
+case,component,n_sequences,columns,core_columns,ambiguous_residues,original_excluded_for_ambiguity,outside_sequence_count_limit,outside_column_limit,original82_eligible,original82_geometry_with_ambiguity_retained,primary_extension_site_valid,pilot_component_excluded_from_primary,primary_selected,reference_set,primary_exclusion
+BB11001,BB11001,4,96,57,0,False,False,False,False,False,True,False,True,RV11,
+BB11002,BB11002,8,234,17,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11003,BB11003,4,582,247,2,True,False,False,False,False,True,False,True,RV11,
+BB11004,BB11004,4,603,184,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11005,BB11005,14,609,88,14,True,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11006,BB11006,8,385,48,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11007,BB11007,9,505,142,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11008,BB11002,4,559,49,2,True,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11009,BB11009,4,584,60,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11010,BB11010,4,609,78,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11011,BB11011,5,289,46,1,True,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11012,BB11012,4,410,251,0,False,False,False,False,False,True,False,True,RV11,
+BB11013,BB11013,5,115,29,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11014,BB11014,6,668,277,8,True,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11015,BB11015,4,341,198,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11016,BB11016,8,988,110,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11017,BB11017,4,311,151,14,True,False,False,False,False,True,False,True,RV11,
+BB11018,BB11018,14,1172,101,25,True,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11019,BB11019,10,484,97,9,True,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11020,BB11020,9,291,75,4,True,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11021,BB11021,4,175,49,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11022,BB11022,4,270,33,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11023,BB11023,7,424,82,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11024,BB11004,4,642,103,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11025,BB11025,4,139,19,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11026,BB11009,7,1176,13,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11027,BB11027,7,503,70,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11028,BB11028,10,339,20,2,True,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11029,BB11029,4,164,51,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11030,BB11030,14,524,69,5,True,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11031,BB11031,11,882,106,5,True,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11032,BB11009,8,555,76,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11033,BB11033,11,288,18,5,True,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11034,BB11016,8,1002,100,0,False,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11035,BB11029,5,159,37,1,True,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11036,BB11036,8,525,92,12,True,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB11037,BB11037,5,1257,203,0,False,False,False,False,False,True,False,True,RV11,
+BB11038,BB11002,8,723,135,1,True,False,False,False,False,False,False,False,RV11,no valid primary site/size
+BB12001,BB12001,11,623,244,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12002,BB12002,6,243,137,4,True,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12003,BB12003,8,92,37,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12004,BB12004,15,312,152,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12005,BB12005,9,258,137,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12006,BB11006,4,245,166,0,False,False,False,False,False,True,False,True,RV12,
+BB12007,BB12007,8,1263,793,0,False,False,False,True,True,True,True,False,RV12,original pilot component
+BB12008,BB12008,13,736,271,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12009,BB12009,5,256,64,0,False,False,False,False,False,True,False,True,RV12,
+BB12010,BB12010,7,450,206,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12011,BB12011,12,1371,352,0,False,False,False,False,False,True,False,True,RV12,
+BB12012,BB12012,4,585,164,0,False,False,False,False,False,True,False,True,RV12,
+BB12013,BB12013,8,835,483,1,True,False,False,False,False,True,False,True,RV12,
+BB12014,BB11022,9,269,43,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12015,BB12015,12,522,60,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12016,BB12016,5,1229,73,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12017,BB11031,7,586,268,0,False,False,False,False,False,True,False,True,RV12,
+BB12018,BB12018,4,984,670,1,True,False,False,False,True,True,False,True,RV12,
+BB12019,BB12019,5,832,406,0,False,False,False,False,False,True,False,True,RV12,
+BB12020,BB12020,4,141,69,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12021,BB12021,6,88,39,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12022,BB11011,5,590,51,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12023,BB12023,5,807,496,0,False,False,False,False,False,True,False,True,RV12,
+BB12024,BB12024,4,285,168,1,True,False,False,False,False,True,False,True,RV12,
+BB12025,BB12025,4,287,64,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12026,BB12026,18,427,157,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12027,BB12027,13,657,123,0,False,False,False,False,False,True,False,True,RV12,
+BB12028,BB12028,8,519,124,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12029,BB11004,12,566,195,0,False,False,False,False,False,True,False,True,RV12,
+BB12030,BB12030,6,1247,177,0,False,False,False,False,False,True,False,True,RV12,
+BB12031,BB12031,10,1120,671,0,False,False,False,True,True,True,True,False,RV12,original pilot component
+BB12032,BB12032,9,102,27,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12033,BB12033,7,790,161,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12034,BB12034,4,309,217,1,True,False,False,False,False,True,False,True,RV12,
+BB12035,BB11011,27,493,86,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12036,BB11027,7,238,162,0,False,False,False,False,False,True,False,True,RV12,
+BB12037,BB12037,13,3054,250,0,False,False,True,False,False,False,False,False,RV12,no valid primary site/size
+BB12038,BB12038,10,2445,119,0,False,False,True,False,False,False,False,False,RV12,no valid primary site/size
+BB12039,BB11016,11,455,35,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12040,BB12040,5,164,96,0,False,False,False,False,False,True,False,True,RV12,
+BB12041,BB12041,7,154,46,1,True,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12042,BB12042,4,611,290,0,False,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12043,BB11011,34,786,70,1,True,False,False,False,False,False,False,False,RV12,no valid primary site/size
+BB12044,BB12044,11,733,452,0,False,False,False,False,False,True,False,True,RV12,
+BB20001,BB11001,16,780,50,0,False,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20002,BB11002,20,2228,16,0,False,False,True,False,False,False,False,False,RV20,no valid primary site/size
+BB20003,BB11003,74,902,221,2,True,True,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20004,BB11004,55,903,240,0,False,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20005,BB11005,42,675,95,5,True,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20006,BB12004,51,336,183,0,False,False,False,False,False,True,False,True,RV20,
+BB20007,BB11007,23,515,152,0,False,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20008,BB11002,56,2029,22,2,True,False,True,False,False,False,False,False,RV20,no valid primary site/size
+BB20009,BB12010,29,462,118,1,True,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20010,BB12011,29,1400,295,0,False,False,False,False,False,True,False,False,RV20,linked eligible case; one representative
+BB20011,BB11009,21,873,44,0,False,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20012,BB20012,27,950,106,24,True,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20013,BB11010,28,1010,86,0,False,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20014,BB11011,65,929,32,5,True,True,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20015,BB11013,37,293,25,1,True,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20016,BB12015,27,652,84,0,False,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20017,BB11014,45,793,264,0,False,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20018,BB11015,53,430,144,0,False,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20019,BB11016,24,1002,125,0,False,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20020,BB11017,16,615,138,0,False,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20021,BB11018,53,1242,131,0,False,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20022,BB11019,58,497,124,9,True,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20023,BB11020,31,311,78,4,True,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20024,BB11022,30,973,31,0,False,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20025,BB11004,81,912,126,0,False,True,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20026,BB12031,32,1232,202,4,True,False,False,False,False,True,True,False,RV20,original pilot component
+BB20027,BB12033,29,1466,112,0,False,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20028,BB12034,54,707,148,1,True,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20029,BB11025,29,207,29,0,False,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20030,BB11009,47,165,32,3,True,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20031,BB11027,60,541,105,0,False,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20032,BB11028,61,168,33,82,True,True,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20033,BB11029,48,174,40,34,True,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20034,BB11030,59,698,84,0,False,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20035,BB11009,35,1234,50,0,False,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20036,BB11033,91,466,18,24,True,True,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20037,BB11016,65,1022,60,0,False,True,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20038,BB11029,42,256,35,36,True,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20039,BB11036,91,578,69,3,True,True,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20040,BB12019,87,774,216,0,False,True,False,False,False,False,False,False,RV20,no valid primary site/size
+BB20041,BB11002,48,1975,151,34,True,False,False,False,False,False,False,False,RV20,no valid primary site/size
+BB30001,BB11003,116,949,91,2,True,True,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30002,BB11004,31,1019,258,0,False,False,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30003,BB11005,142,709,56,13,True,True,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30004,BB12008,50,870,240,0,False,False,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30005,BB11007,113,1268,103,0,False,True,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30006,BB11002,18,964,44,1,True,False,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30007,BB11009,24,888,46,0,False,False,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30008,BB20012,36,1413,221,17,True,False,False,False,False,True,False,True,RV30,
+BB30009,BB11013,38,278,27,1,True,False,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30010,BB11014,50,1424,247,0,False,False,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30011,BB11015,65,492,171,0,False,True,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30012,BB11016,65,835,101,0,False,True,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30013,BB11018,86,1324,115,1,True,True,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30014,BB11020,44,307,85,0,False,False,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30015,BB11021,21,736,44,1,True,False,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30016,BB11022,37,941,17,0,False,False,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30017,BB11023,15,416,105,0,False,False,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30018,BB11004,78,829,146,0,False,True,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30019,BB12031,34,936,77,4,True,False,False,False,False,False,True,False,RV30,original pilot component
+BB30020,BB11009,56,986,15,0,False,False,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30021,BB11027,140,631,86,0,False,True,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30022,BB11029,66,248,35,34,True,True,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30023,BB11030,77,686,91,0,False,True,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30024,BB11009,69,1215,50,0,False,True,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30025,BB11033,74,498,31,2,True,True,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30026,BB11016,81,831,68,0,False,True,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30027,BB11029,20,239,22,14,True,False,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30028,BB11036,89,572,94,2,True,True,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30029,BB12019,98,1229,252,0,False,True,False,False,False,False,False,False,RV30,no valid primary site/size
+BB30030,BB11002,62,2015,115,1,True,True,True,False,False,False,False,False,RV30,no valid primary site/size
+BB40001,BB11001,28,1536,66,0,False,False,False,False,False,True,False,False,RV40,linked eligible case; one representative
+BB40002,BB11002,55,2477,19,0,False,False,True,False,False,False,False,False,RV40,no valid primary site/size
+BB40003,BB12001,12,1079,348,0,False,False,False,False,False,True,False,True,RV40,
+BB40004,BB11003,67,1387,320,0,False,True,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40005,BB11004,12,872,348,0,False,False,False,False,False,True,False,False,RV40,linked eligible case; one representative
+BB40006,BB11005,14,632,169,3,True,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40007,BB11006,8,2614,104,0,False,False,True,False,False,False,False,False,RV40,no valid primary site/size
+BB40008,BB12008,12,805,245,0,False,False,False,False,False,True,False,True,RV40,
+BB40009,BB11007,19,1179,144,0,False,False,False,False,False,True,False,True,RV40,
+BB40010,BB12009,9,275,61,0,False,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40011,BB11002,39,2013,37,0,False,False,True,False,False,False,False,False,RV40,no valid primary site/size
+BB40012,BB12010,22,616,141,0,False,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40013,BB11009,35,895,25,0,False,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40014,BB12012,9,712,158,0,False,False,False,False,False,True,False,False,RV40,linked eligible case; one representative
+BB40015,BB11022,33,3708,43,0,False,False,True,False,False,False,False,False,RV40,no valid primary site/size
+BB40017,BB12015,42,693,24,2,True,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40018,BB12016,9,1658,60,0,False,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40019,BB11031,10,1988,310,0,False,False,False,False,False,True,False,False,RV40,linked eligible case; one representative
+BB40020,BB12019,23,1894,318,0,False,False,False,False,False,True,False,False,RV40,linked eligible case; one representative
+BB40021,BB11011,25,925,176,1,True,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40022,BB11011,14,1180,27,10,True,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40023,BB11014,22,8481,179,8,True,False,True,False,False,False,False,False,RV40,no valid primary site/size
+BB40024,BB11016,34,1715,81,0,False,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40025,BB11017,14,613,145,0,False,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40026,BB11018,36,1704,107,25,True,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40027,BB11019,33,3954,59,9,True,False,True,False,False,False,False,False,RV40,no valid primary site/size
+BB40028,BB12026,22,819,175,0,False,False,False,False,False,True,False,True,RV40,
+BB40029,BB11021,24,720,46,5,True,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40030,BB12028,32,818,123,0,False,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40031,BB11022,27,922,86,0,False,False,False,False,False,True,False,True,RV40,
+BB40032,BB12030,6,1271,162,0,False,False,False,False,False,True,False,False,RV40,linked eligible case; one representative
+BB40033,BB11004,19,862,126,0,False,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40034,BB12031,34,939,76,4,True,False,False,False,False,False,True,False,RV40,original pilot component
+BB40035,BB12033,27,2120,124,0,False,False,True,False,False,False,False,False,RV40,no valid primary site/size
+BB40036,BB12034,29,780,168,1,True,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40037,BB11009,46,963,30,0,False,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40038,BB11028,23,3541,33,15,True,False,True,False,False,False,False,False,RV40,no valid primary site/size
+BB40039,BB12037,34,3141,208,0,False,False,True,False,False,False,False,False,RV40,no valid primary site/size
+BB40040,BB12038,30,2458,91,0,False,False,True,False,False,False,False,False,RV40,no valid primary site/size
+BB40041,BB11016,55,2225,21,0,False,False,True,False,False,False,False,False,RV40,no valid primary site/size
+BB40042,BB11030,31,1095,93,5,True,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40043,BB11009,17,976,80,0,False,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40044,BB11033,47,508,25,5,True,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40045,BB12041,11,650,38,2,True,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40046,BB11016,29,1694,68,0,False,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB40047,BB11011,54,4791,96,1,True,False,True,False,False,False,False,False,RV40,no valid primary site/size
+BB40048,BB12019,17,1916,436,0,False,False,False,False,False,True,False,False,RV40,linked eligible case; one representative
+BB40049,BB11002,62,3569,104,1,True,True,True,False,False,False,False,False,RV40,no valid primary site/size
+BB40016,BB12015,42,693,24,2,True,False,False,False,False,False,False,False,RV40,no valid primary site/size
+BB50001,BB11004,34,944,148,0,False,False,False,False,False,False,False,False,RV50,no valid primary site/size
+BB50002,BB20012,13,1277,42,34,True,False,False,False,False,False,False,False,RV50,no valid primary site/size
+BB50003,BB11010,43,1576,101,0,False,False,False,False,False,False,False,False,RV50,no valid primary site/size
+BB50004,BB50004,9,547,298,8,True,False,False,False,False,True,False,True,RV50,
+BB50005,BB12023,11,958,488,0,False,False,False,False,False,True,False,False,RV50,linked eligible case; one representative
+BB50006,BB11018,60,2419,81,24,True,False,True,False,False,False,False,False,RV50,no valid primary site/size
+BB50007,BB11020,23,452,63,0,False,False,False,False,False,False,False,False,RV50,no valid primary site/size
+BB50008,BB12028,26,810,81,2,True,False,False,False,False,False,False,False,RV50,no valid primary site/size
+BB50009,BB11004,28,806,75,0,False,False,False,False,False,False,False,False,RV50,no valid primary site/size
+BB50010,BB11004,17,926,99,0,False,False,False,False,False,False,False,False,RV50,no valid primary site/size
+BB50011,BB12031,36,1331,113,5,True,False,False,False,False,False,True,False,RV50,original pilot component
+BB50012,BB12033,49,2545,98,0,False,False,True,False,False,False,False,False,RV50,no valid primary site/size
+BB50013,BB12034,18,386,127,0,False,False,False,False,False,False,False,False,RV50,no valid primary site/size
+BB50014,BB12037,30,1151,215,0,False,False,False,False,False,True,False,True,RV50,
+BB50015,BB11009,32,1728,58,0,False,False,False,False,False,False,False,False,RV50,no valid primary site/size
+BB50016,BB50016,18,1989,163,1,True,False,False,False,False,False,False,False,RV50,no valid primary site/size

@@ -1,0 +1,15 @@
+{
+  "bootstrap_resamples": 10000,
+  "bootstrap_seed": 3553202,
+  "concurrent_jobs": 2,
+  "dependencies": {
+    "matplotlib": "3.11.2",
+    "numpy": "2.5.4",
+    "pillow": "13.0.0"
+  },
+  "dependency_directory_read_only": "<PROJECT_ROOT>\\msa_refinement\\.deps",
+  "mafft_threads_per_run": 1,
+  "mafft_version_file": "mafft_version.json",
+  "platform": "Windows-11-10.0.22631-SP0",
+  "python": "3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)]"
+}

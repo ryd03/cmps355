@@ -1,0 +1,10 @@
+{
+  "errors": 0,
+  "failures": 0,
+  "log": "validation_logs/8b87c061418c4179b8fe49017c44a98c.log",
+  "passed": true,
+  "real_mafft_calls": 0,
+  "runtime_seconds": 1.270721435546875,
+  "tests": 22,
+  "utc_epoch": 1794042799.5825107
+}

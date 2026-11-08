@@ -1,0 +1,7 @@
+divergence,condition,independent_seed_blocks,union_gap_columns,improved_datasets,improved_percent,worsened_datasets,worsened_percent,unchanged_datasets,unchanged_percent,mean_local_accuracy_change,median_local_accuracy_change,mean_change_percentage_points,median_change_percentage_points,alignment_changed_but_net_accuracy_unchanged
+0.25,none,50,24,10,20.0,10,20.0,30,60.0,0.0006818181818181819,0.0,0.06818181818181819,0.0,7
+0.25,partial,50,18,10,20.0,6,12.0,34,68.0,0.004761904761904762,0.0,0.4761904761904762,0.0,5
+0.25,high,50,13,10,20.0,7,14.0,33,66.0,0.006142857142857143,0.0,0.6142857142857142,0.0,6
+0.4,none,50,24,15,30.0,7,14.0,28,56.0,0.008090909090909091,0.0,0.8090909090909091,0.0,8
+0.4,partial,50,18,19,38.0,7,14.0,24,48.0,0.014619047619047618,0.0,1.4619047619047618,0.0,5
+0.4,high,50,13,14,28.0,12,24.0,24,48.0,0.0020952380952380953,0.0,0.20952380952380953,0.0,7

@@ -1,0 +1,42 @@
+{
+  "command": [
+    "C:\\Python312\\python.exe",
+    "-m",
+    "pytest",
+    "-p",
+    "no:cacheprovider",
+    "-v",
+    "tests",
+    "--basetemp",
+    "<PROJECT_ROOT>\\msa_refinement\\vt\\272600",
+    "--junitxml",
+    "<PROJECT_ROOT>\\msa_refinement\\runs\\phase1_validation\\1793888252719272600.junit.xml"
+  ],
+  "exit_code": 0,
+  "original_validation_files_modified": false,
+  "python": "3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)]",
+  "source_sha256": {
+    "src/__init__.py": "85509f87b3d4a530ed57eb3e70fcb21a657b56e212c54e5173b23131a033aed2",
+    "src/audit.py": "f2fdf5f35a1b2fa4494985ef134b8be662eb6b8492a6c7ebc9a069da50bb4188",
+    "src/cli.py": "4a1e47a1b803b0d73dd8aa7612f17c7362108ddb60ce17896815dcab2dfcbf17",
+    "src/full_analysis.py": "bb02aec5d5a6ae3eaaedf8f67dcbc5bef0b18bade939a140fdaf52b3d7697990",
+    "src/full_audit.py": "0bff20ae9b0be97f3bb74699f33b3064eb3e4f3c9fe6ae9b07c619afe4ae5f24",
+    "src/full_bundle.py": "192699343a575d90bb8dd9cff03004c6aa08586e0b63eb9056422328c8b6a43c",
+    "src/full_cli.py": "c5a4c09cf6228a65a73a8eb91c3ccfe468cb708e5ba236822b17716d60b822b7",
+    "src/full_pipeline.py": "4fd5f22f96219c2f27fa39b3e5c8016f01dd93b76f6cb41e4f4633073e058fed",
+    "src/full_reporting.py": "d6ae0e376f13c09b85ecbfa1098e82130bd2a3c16a6f619b280b13b8a8da2a83",
+    "src/pipeline.py": "6fdae04b524f356eddaa87e517ef201ad8a9cf85ea4d3e76ef856e2a9fa6e3b7",
+    "src/reporting.py": "5c685795580f72b1280228215c2cb376c266d57ca7c321c128303111d0b71c6a",
+    "src/runner.py": "3edf846313c07bb69620b9dd86c1712e68e8366f1f190e9c77ed6316d3b22199",
+    "src/scoring.py": "abb6673ae37193984172b6fce690f2baf5af5094aa241d46c5e8e833f9fafdf7",
+    "src/simulation.py": "f0af3cbbef71a43510ad1ef4fa5fca6efd4bf15001f5835e0f5436330bc798a9",
+    "src/storage.py": "67f3b85d1abd253867b429b57ba0c02f83b5ddd9c6d6b1f7b004ac9cd9dc8f41",
+    "tests/conftest.py": "0947715147173b4036b2733145ed58633f44a10fd27af7beefb78f5a603d2a18",
+    "tests/fake_mafft.py": "bc97a0186fcec3323cb94bf20478f95b596a5bc74e9aa36eb7243407e4fb457f",
+    "tests/test_full.py": "28547edda1141f4d65ee1200bd082c0667ffff296087b29aa2d0d92144837a0f",
+    "tests/test_recovery.py": "6b8b677e47d46f965ca43ab15bfdca82b59380ed3ef03384a0334e1bd22b2bf2",
+    "tests/test_science.py": "70836a650ab2c7d8fff661f2826459543cce165ce83f0dd958208e4dce143d7e"
+  },
+  "summary": "============================= 47 passed in 54.31s =============================",
+  "utc_epoch": 1793888307.8994637
+}

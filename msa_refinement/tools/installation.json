@@ -1,0 +1,8 @@
+{
+  "download_url": "https://mafft.cbrc.jp/alignment/software/mafft-7.526-win64-signed.zip",
+  "download_sha256": "7c3a508c8512af04007d68019c6fbd4ff00d891244b58f87ec9aa0e53fbae8a7",
+  "official_instructions": "https://mafft.cbrc.jp/alignment/software/windows_without_cygwin.html",
+  "version": "v7.526 (2024/Apr/26)",
+  "platform": "official Windows all-in-one (MSYS)",
+  "install_command": "python tools/setup_mafft.py"
+}

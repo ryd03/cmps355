@@ -1,0 +1,46 @@
+{
+  "dataset_rows": 300,
+  "experiment_directory": "<PROJECT_ROOT>\\msa_refinement\\runs\\full_deletion_overlap_v2_0815b46e6b9208a2",
+  "exploratory_post_hoc": true,
+  "inputs": [
+    {
+      "path": "msa_refinement/runs/full_deletion_overlap_v2_0815b46e6b9208a2/config.json",
+      "sha256": "40b25a5c49511beabf14871a7a883f677aba88379779fd8007504bf73063b732",
+      "size": 4971
+    },
+    {
+      "path": "msa_refinement/runs/full_deletion_overlap_v2_0815b46e6b9208a2/experiment_manifest.json",
+      "sha256": "2fedd3af28807a46ae11fa2cd418dca38ca9ce2d031edfaa7a62b09aac8a0dce",
+      "size": 8574
+    },
+    {
+      "path": "msa_refinement/runs/full_deletion_overlap_v2_0815b46e6b9208a2/full_summary.csv",
+      "sha256": "a77dad6e4dde9177ca4e7515815c76efbf6bbfa44755e8e1720fc9a17741aa34",
+      "size": 424525
+    },
+    {
+      "path": "msa_refinement/runs/full_deletion_overlap_v2_0815b46e6b9208a2/paired_comparisons.csv",
+      "sha256": "2b876c26a3600b0e7bea4d74981084d5de1834514507c102e3fc183e08dd6f39",
+      "size": 38923
+    },
+    {
+      "path": "msa_refinement/runs/full_deletion_overlap_v2_0815b46e6b9208a2/confidence_intervals.csv",
+      "sha256": "97e1df19963d86caa9645b8a6bedae8382bbb4694d82f45025ace80677225015",
+      "size": 7059
+    },
+    {
+      "path": "msa_refinement/runs/full_deletion_overlap_v2_0815b46e6b9208a2/cell_summary.csv",
+      "sha256": "1691dc153b258ee33b2b26d4201ae448e2d218b3bc8f89021af9eb0675df5f89",
+      "size": 5639
+    },
+    {
+      "path": "msa_refinement/runs/full_deletion_overlap_v2_0815b46e6b9208a2/full_artifact_audit.json",
+      "sha256": "79180c2d99ffcb2c74d45d1f760c91d81a4465fd72394488d1c6b0625279548a",
+      "size": 2362
+    }
+  ],
+  "original_data_copied_into_bundle": false,
+  "original_scoring_definition": "Focal-boundary reference-pair SP recall; integer correct-pair net divided by original true-local pair denominator",
+  "source_summary_rows": 900,
+  "validated_score_and_comparison_markers": 900
+}

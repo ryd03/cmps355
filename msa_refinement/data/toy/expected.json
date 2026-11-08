@@ -1,0 +1,12 @@
+{
+  "reference_pair_count": 29,
+  "incorrect_pair_count": 30,
+  "true_positives_in_incorrect": 28,
+  "false_positives_in_incorrect": 2,
+  "false_negatives_in_incorrect": 1,
+  "if_correcting_incorrect_to_reference": {
+    "recovered_reference_pairs": 1,
+    "lost_reference_pairs": 0,
+    "removed_false_pairs": 2
+  }
+}

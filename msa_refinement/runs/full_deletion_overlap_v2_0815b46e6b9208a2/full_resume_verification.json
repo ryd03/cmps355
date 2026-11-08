@@ -1,0 +1,9 @@
+{
+  "alignment_calls_made": 0,
+  "alignments_skipped": 900,
+  "all_bytes_and_mtimes_unchanged": true,
+  "artifacts_checked": 7100,
+  "command": "python -m src.full_cli run --config config/full.json --workdir ./runs",
+  "passed": true,
+  "summary_sha256_unchanged": "a77dad6e4dde9177ca4e7515815c76efbf6bbfa44755e8e1720fc9a17741aa34"
+}

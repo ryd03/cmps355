@@ -1,0 +1,8 @@
+{
+  "command": [
+    "<PROJECT_ROOT>\\phase2_extension\\mafft-win\\mafft.bat",
+    "--version"
+  ],
+  "exit_code": 0,
+  "output": "\fActive code page: 65001\r\n \r\nPreparing environment to run MAFFT on Windows. \r\nThis may take a while, if real-time scanning by anti-virus software is on. \r\n\nIt may take a while before the calculation starts\nif being scanned by anti-virus software.\nAlso consider using a faster version for Windows 10:\nhttps://mafft.cbrc.jp/alignment/software/wsl.html\nv7.526 (2024/Apr/26)\n"
+}

@@ -1,0 +1,160 @@
+{
+  "analysis": {
+    "bootstrap_replicates": 10000,
+    "bootstrap_seed": 3552050,
+    "confidence_level": 0.95,
+    "divergence_comparison": "paired by seed; 0.40 minus 0.25; seed streams remain the unchanged v2 streams",
+    "estimand": "mean of within-seed differences in normalized local net gain at each divergence",
+    "interval_method": "paired_seed_block_percentile_linear_interpolation",
+    "missing_data_policy": "require all 900 validated alignments, 900 scores and 600 comparisons before statistical estimates; do not silently exclude failed blocks",
+    "multiplicity": "marginal intervals; no simultaneous coverage or multiplicity-adjusted significance claim",
+    "outcome": "normalized_focal_local_net_gain",
+    "pilot_exclusion": "only seeds 2001 through 2050 are admissible",
+    "primary_contrasts": [
+      "partial_minus_none",
+      "high_minus_none"
+    ],
+    "primary_iteration_cap": 2,
+    "resampling": "jointly resample 50 seed IDs with replacement; preserve all conditions and divergence levels per seed",
+    "secondary_iteration_cap": 10
+  },
+  "conditions": [
+    "none",
+    "partial",
+    "high"
+  ],
+  "design_version": "fixed_tree_independent_terminal_deletions_primary_focal_boundary_v2",
+  "divergence_levels": [
+    0.25,
+    0.4
+  ],
+  "expected_datasets": 300,
+  "expected_mafft_runs": 900,
+  "experiment_id": "full_deletion_overlap_v2",
+  "mafft": {
+    "algorithm": "FFT-NS progressive and FFT-NS-i only",
+    "amino": true,
+    "maxiterate": [
+      0,
+      2,
+      10
+    ],
+    "retree": 2,
+    "thread": 1
+  },
+  "note": "User-authorized Phase 1; freeze before first alignment. No pilot observations enter statistical estimates.",
+  "phase": "phase1",
+  "phase1_pipeline_version": "phase1-fixed-v2-1",
+  "provenance": {
+    "phase0_config_sha256": "58f6a74777c9546b8e01066411ef0a28e2299b218a70c649f05c49cf9650b237",
+    "unchanged_core_files": {
+      "pipeline.py": "6fdae04b524f356eddaa87e517ef201ad8a9cf85ea4d3e76ef856e2a9fa6e3b7",
+      "reporting.py": "5c685795580f72b1280228215c2cb376c266d57ca7c321c128303111d0b71c6a",
+      "runner.py": "3edf846313c07bb69620b9dd86c1712e68e8366f1f190e9c77ed6316d3b22199",
+      "scoring.py": "abb6673ae37193984172b6fce690f2baf5af5094aa241d46c5e8e833f9fafdf7",
+      "simulation.py": "f0af3cbbef71a43510ad1ef4fa5fca6efd4bf15001f5835e0f5436330bc798a9",
+      "storage.py": "67f3b85d1abd253867b429b57ba0c02f83b5ddd9c6d6b1f7b004ac9cd9dc8f41"
+    }
+  },
+  "run": {
+    "atomic_artifact_writes": true,
+    "concurrent_seed_blocks": 4,
+    "retry_failed_on_regular_resume": false,
+    "runtime_interpretation": "wall-clock subprocess time under up to four concurrent seed blocks, one thread per MAFFT call; includes Windows launcher overhead and contention",
+    "single_writer_lock": true,
+    "timeout_seconds_per_mafft": 180
+  },
+  "simulator": {
+    "amino_acid_alphabet": "ACDEFGHIKLMNPQRSTVWY",
+    "ancestor_amino_acid_frequencies": "uniform_20_state_pilot_simplification",
+    "ancestor_length": 240,
+    "anchor_jitter_range": [
+      -8,
+      8
+    ],
+    "anchor_jitter_seed_strategy": "seed_specific_separate_rng_shared_across_conditions",
+    "baseline_input_is_ungapped": true,
+    "deletion_length_per_event": 12,
+    "expected_shared_deleted_positions": {
+      "high": 11,
+      "none": 0,
+      "partial": 6
+    },
+    "expected_union_gap_columns": {
+      "high": 13,
+      "none": 24,
+      "partial": 18
+    },
+    "focal_1_deletion_anchor_1based": 95,
+    "focal_event_branches": "independent_terminal_branches_only",
+    "focal_lineages": [
+      "protein1",
+      "protein7"
+    ],
+    "matched_substitution_draws_across_conditions": true,
+    "num_sequences": 12,
+    "number_of_focal_deletion_events": 2,
+    "other_lineages": "substitutions_only_no_indels_in_pilot",
+    "phylogeny_root_to_tip_unit_distance": 1.0,
+    "region_window_ancestral_positions": 10,
+    "replicate_seeds": [
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026,
+      2027,
+      2028,
+      2029,
+      2030,
+      2031,
+      2032,
+      2033,
+      2034,
+      2035,
+      2036,
+      2037,
+      2038,
+      2039,
+      2040,
+      2041,
+      2042,
+      2043,
+      2044,
+      2045,
+      2046,
+      2047,
+      2048,
+      2049,
+      2050
+    ],
+    "second_deletion_start_delta_by_condition": {
+      "high": 1,
+      "none": 50,
+      "partial": 6
+    },
+    "substitution_model": "20_state_equal_rates_poisson_amino_acid",
+    "topology_newick_unit_scale": "(((protein1:0.50,(protein2:0.25,protein3:0.25):0.25):0.25,(protein4:0.50,(protein5:0.25,protein6:0.25):0.25):0.25):0.25,((protein7:0.50,(protein8:0.25,protein9:0.25):0.25):0.25,(protein10:0.50,(protein11:0.25,protein12:0.25):0.25):0.25):0.25);"
+  }
+}

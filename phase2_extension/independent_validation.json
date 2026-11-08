@@ -1,0 +1,11 @@
+{
+  "all_baselines_saved_before_refinement": true,
+  "ambiguous_symbols_preserved_and_excluded_from_scores": true,
+  "cap10_vs_cap2_comparisons": 93,
+  "confidence_intervals": 30,
+  "frozen_before_first_alignment": true,
+  "independent_alignment_scores": 279,
+  "passed": true,
+  "reference_datasets": 93,
+  "utc_epoch": 1794043665.96516
+}

@@ -1,0 +1,34 @@
+{
+  "ambiguous_symbols": "X B Z retained; scoring excludes either ambiguous endpoint",
+  "bootstrap_resamples": 10000,
+  "bootstrap_seed": 3553202,
+  "caps": [
+    0,
+    2,
+    10
+  ],
+  "deletion_length": 12,
+  "difficulty_threshold": 0.95,
+  "experiment": "phase2_extension_v1",
+  "minimum_core_residues_per_flank": 3,
+  "offsets": {
+    "high": 1,
+    "none": 12,
+    "partial": 6
+  },
+  "one_site_per_component": true,
+  "pilot_components_excluded": [
+    "BB12007",
+    "BB12031"
+  ],
+  "primary": "cap2 normalized core-local net gain",
+  "primary_families": 31,
+  "protocol": "d12_w10_targeted_retained",
+  "regression": "exploratory univariate baseline-adjusted descriptive model only if >=30 families; at most2 predictors plus intercept; no p-values",
+  "retree": 2,
+  "selection_rule": "longest d among12,10,8,6 with >=20 new components; else most new components, ties longer",
+  "thread": 1,
+  "timeout_seconds": 600,
+  "window": 10,
+  "workers": 2
+}

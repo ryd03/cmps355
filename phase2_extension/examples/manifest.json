@@ -1,0 +1,38 @@
+[
+  {
+    "baseline_missed": 0,
+    "category": "A_baseline_perfect",
+    "caveat": "First lexicographic example, not a frequency estimate; snippet coordinates differ between alignments",
+    "count": 6,
+    "lost": 0,
+    "recovered": 0,
+    "representative": "BB12013/high"
+  },
+  {
+    "baseline_missed": 6,
+    "category": "B_errors_no_net_gain",
+    "caveat": "First lexicographic example, not a frequency estimate; snippet coordinates differ between alignments",
+    "count": 36,
+    "lost": 0,
+    "recovered": 0,
+    "representative": "BB11012/partial"
+  },
+  {
+    "baseline_missed": 23,
+    "category": "C_improved",
+    "caveat": "First lexicographic example, not a frequency estimate; snippet coordinates differ between alignments",
+    "count": 37,
+    "lost": 0,
+    "recovered": 12,
+    "representative": "BB11001/high"
+  },
+  {
+    "baseline_missed": 21,
+    "category": "D_worsened",
+    "caveat": "First lexicographic example, not a frequency estimate; snippet coordinates differ between alignments",
+    "count": 14,
+    "lost": 12,
+    "recovered": 0,
+    "representative": "BB11001/none"
+  }
+]

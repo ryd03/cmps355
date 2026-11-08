@@ -1,0 +1,26 @@
+{
+  "chosen_protocol": {
+    "eligible_cases": 43,
+    "exact_overlaps": "0,6,11",
+    "independent_components": 33,
+    "length": 12,
+    "new_independent_components": 31,
+    "none_start_offset": 12,
+    "pilot_components_qualifying": 2,
+    "protocol": "d12_w10_targeted_retained",
+    "reliability": "targeted",
+    "symbols": "retained",
+    "window": 10
+  },
+  "files": {
+    "SCREENING_PLAN.md": "e677ab852f3716b3cbc6d0a8215591fb2077166af2e0122ac871815fb57e37cb",
+    "config.json": "b8bd8d59095e41845b1908145c2684d1785de400cab2eded2f1bf5f6cf1fd263",
+    "family_components.json": "8bb818f1a4b6c0270325304001a0bdf20703929c6fc8a9c5dff2e2690afd5ed7",
+    "screen.py": "957681d7330c6d6b3a7098891b57c5b9e47b8ec9c78842b2a24ad2c19334f443",
+    "screening_audit_218.csv": "d614cd5266932deda7edfba1a68a2f416a611968552488666a88db13e970defa",
+    "screening_sensitivity.csv": "e4a915e892b5046e3ded700aaf3259a3ff855fa6f8024bc93c4c37533e91a7cb",
+    "selected_families.json": "849c2f6041cb119283af084aefb565517539a66c272d9108d1e7faac95607b04"
+  },
+  "mafft_executed_before_screening": false,
+  "utc_epoch": 1794042571.6195734
+}

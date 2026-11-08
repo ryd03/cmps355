@@ -1,0 +1,12 @@
+{
+  "phase1": {
+    "local_copy": "comparison_sources/full_summary.csv",
+    "original": "<PROJECT_ROOT>\\msa_refinement\\runs\\full_deletion_overlap_v2_0815b46e6b9208a2\\full_summary.csv",
+    "sha256": "a77dad6e4dde9177ca4e7515815c76efbf6bbfa44755e8e1720fc9a17741aa34"
+  },
+  "pilot": {
+    "local_copy": "comparison_sources/phase2_summary.csv",
+    "original": "<PROJECT_ROOT>\\phase2_balibase_real_proteins\\phase2_summary.csv",
+    "sha256": "47ddd2bda9d29ffdf3b4a6b6e6bbc4663f549a7770d8db5c57ed952624004ccc"
+  }
+}
